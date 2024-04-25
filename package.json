@@ -1,6 +1,6 @@
 {
   "name": "pz04_word_counter",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "word counter",
   "main": "main.js",
   "bin": "main.js",
